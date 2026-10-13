@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "basic-ftp": "^5.2.0",
+    "basic-ftp": "^6.2.1",
     "cross-env": "^7.0.3",
     "fs": "0.0.1-security",
     "ftp": "^0.3.10",
